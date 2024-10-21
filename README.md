@@ -1,1 +1,1 @@
-# Olympics-2024-Analysis-Dashboard
+This project provides a comprehensive analysis of the 2024 Summer Olympics held in Paris, France. The analysis focuses on total participation, gender distribution, medal performance, and insights into various disciplines. By leveraging data visualization and statistical techniques, this project aims to deliver valuable insights into the dynamics of the Olympic Games.
